@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/V128Team" name="v128" />
+  <default remote="v128" revision="master" />
+
+  <project name="build" path="build">
+    <linkfile src="Makefile" dest="Makefile" />
+  </project>
+
+  <project name="docs"     path="docs" />
+  <project name="distro"   path="distro" />
+  <project name="manifest" path="manifest" />
+</manifest>
