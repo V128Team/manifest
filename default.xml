@@ -10,5 +10,5 @@
   <project name="docs"     path="docs" />
   <project name="distro"   path="distro" />
   <project name="manifest" path="manifest" />
-  <project name="vice"     path="packages/vice" />
+  <project name="vice"     path="packages/vice" branch="v128-fork" />
 </manifest>
