@@ -16,4 +16,5 @@
   <project name="plymouth-v128-theme" path="packages/plymouth-v128-theme" />
   <project name="v128-shell"          path="packages/v128-shell" />
   <project name="pywlroots"           path="packages/pywlroots" />
+  <project name="pywayland"           path="packages/pywayland" />
 </manifest>
