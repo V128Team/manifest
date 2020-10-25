@@ -14,4 +14,5 @@
   <!-- packages -->
   <project name="vice"                path="packages/vice" />
   <project name="plymouth-v128-theme" path="packages/plymouth-v128-theme" />
+  <project name="v128-shell"          path="packages/v128-shell" />
 </manifest>
