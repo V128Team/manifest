@@ -10,6 +10,7 @@
   <project name="docs"     path="docs" />
   <project name="distro"   path="distro" />
   <project name="manifest" path="manifest" />
+  <project name="releases" path="releases" />
 
   <!-- packages -->
   <project name="vice"                path="packages/vice" />
