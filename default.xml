@@ -19,4 +19,5 @@
   <project name="v128-shell"          path="packages/v128-shell" />
   <project name="firmware"            path="packages/pi4-firmware" />
   <project name="rpi-eeprom"          path="packages/rpi-eeprom" />
+  <project name="mdt-services"        path="packages/mdt-services" />
 </manifest>
