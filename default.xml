@@ -12,6 +12,7 @@
   <project name="manifest" path="manifest" />
   <project name="releases" path="releases" />
   <project name="hardware" path="hardware" />
+  <project name="usbboot"  path="usbboot" />
 
   <!-- packages -->
   <project name="vice"                path="packages/vice" />
